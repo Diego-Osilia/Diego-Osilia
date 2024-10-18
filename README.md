@@ -37,6 +37,14 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
       alt="Java"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" 
+      alt="React"/>
+</a>
+<a href="https://astro.build/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Astro-FF5C5C?style=for-the-badge&logo=astro&logoColor=white" 
+      alt="Astro"/>
+</a>	
 </p>
 
 <h3 align="center">Backend</h3>
