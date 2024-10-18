@@ -2,18 +2,17 @@
 
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 <br><br>
 
 - :school: I am a `Junior` at [Technological University of Inacap](https://portal.inacap.cl/) at [Santiago de Chile].
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Cybersecurity`, `Machine Learning`, `Blockchain technology` and `Videogame Development`.
+- :student: I’m currently learning `Cybersecurity`, `Machine Learning`, `Blockchain Technology` and `Videogame Development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [My LinkedIn](https://www.linkedin.com/in/diego-osilia/).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>
@@ -115,16 +114,16 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
+<a href="https://github.com/Diego-Osilia">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diego-Osilia&theme=gruvbox&hide_border=true" alt="Diego's GitHub Stats Graph"/>
 </a>
 <br><br>
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+<a href="https://github.com/Diego-Osilia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diego-Osilia&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Diego%27s%20Github%20Stats" alt="Diego's GitHub Stats" />
 </a>
 <h3>Longest vs Current Streak </h3>
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
+<a href="https://github.com/Diego-Osilia">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-Osilia&theme=gruvbox" alt="Diego's GitHub Streak Stats"/>
 </a>
 <br><br>
 
