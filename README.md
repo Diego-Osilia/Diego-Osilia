@@ -8,7 +8,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Technological University of Inacap](https://portal.inacap.cl/) at [Santiago de Chile].
+- :school: I studied **Software Engineering** at [Technological University of Inacap](https://portal.inacap.cl/) in [Santiago, Chile].
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Cybersecurity`, `Machine Learning`, `Blockchain Technology` and `Videogame Development`.
 - :nerd_face: Always `learning new things`.
