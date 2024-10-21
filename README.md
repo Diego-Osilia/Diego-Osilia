@@ -29,10 +29,6 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="C++"/> 
   </a>
-  <a href="https://soliditylang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"
-      alt="Solidity"/>
-  </a>
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
       alt="Java"/>
@@ -83,9 +79,6 @@
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
   </a>
 </p>
 
