@@ -29,18 +29,12 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="C++"/> 
   </a>
-  <a href="https://www.java.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
-      alt="Java"/>
-  </a>
+  
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" 
       alt="React"/>
 </a>
-<a href="https://astro.build/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Astro-FF5C5C?style=for-the-badge&logo=astro&logoColor=white" 
-      alt="Astro"/>
-</a>	
+
 </p>
 
 <h3 align="center">Backend</h3>
@@ -69,10 +63,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="PostgreSQL"/> 
   </a>
-  <a href="https://www.oracle.com/database/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
-      alt="Oracle"/>
-  </a>
+  
 </p>
 
 <h3 align="center">Cloud & Hosting</h3>
