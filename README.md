@@ -109,6 +109,7 @@
 ## Proyectos de Ciberseguridad
 - [Intrusion Detection System](https://github.com/Diego-Osilia/intrusion-detection-system.git): Application to monitor network traffic.
 - [Password Manager](https://github.com/Diego-Osilia/Password_Manager.git): Application to securely store and manage passwords.
+- [Encryptor](https://github.com/Diego-Osilia/Encryptor.git): A Python application for encrypting and decrypting messages securely.
 
 <!-- 
 ## Otros Proyectos
