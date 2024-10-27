@@ -110,9 +110,11 @@
 - [Intrusion Detection System](https://github.com/Diego-Osilia/intrusion-detection-system.git): Application to monitor network traffic.
 - [Password Manager](https://github.com/Diego-Osilia/Password_Manager.git): Application to securely store and manage passwords.
 
+<!-- 
 ## Otros Proyectos
 - [Proyecto 3](https://github.com/tu-usuario/proyecto-3): Generador de gráficos interactivos en JavaScript.
 - [Proyecto 4](https://github.com/tu-usuario/proyecto-4): Sistema de autenticación con Firebase y React.
+-->
 
 </div>
 
