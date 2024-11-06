@@ -25,6 +25,11 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="Python"/> 
   </a>
+<a href="https://www.java.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" 
+      alt="Java"/> 
+</a>
+
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="C++"/> 
