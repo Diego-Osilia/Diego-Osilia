@@ -25,20 +25,14 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="Python"/> 
   </a>
-<a href="https://www.java.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" 
-      alt="Java"/> 
-</a>
+
 
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="C++"/> 
   </a>
   
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" 
-      alt="React"/>
-</a>
+  
 
 </p>
 
@@ -48,10 +42,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="Node.js"/> 
   </a>
-  <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-      alt="PHP"/> 
-  </a>
+  
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
       alt="Django"/> 
@@ -87,10 +78,7 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="Docker"/>
-  </a>
+  
 </p>
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
