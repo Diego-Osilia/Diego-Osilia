@@ -12,22 +12,43 @@
 - :thinking: I’m currently open to new `job opportunities` in **AI development**, **game programming**, or similar fields. This is [My LinkedIn](https://www.linkedin.com/in/diego-osilia/).
 - :lock: I also have knowledge in `cybersecurity` and network administration.
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
+
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
       alt="JavaScript"/> 
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" 
+      alt="C#"/> 
+  </a>
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="Python"/> 
   </a>
-
-
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="C++"/> 
   </a>
+  
+</p>
+
+<h3 align="center">Python Libraries</h3>
+<p align="center">
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" 
+      alt="NumPy"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" 
+      alt="Pandas"/> 
+  </a>
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" 
+      alt="PyTorch"/> 
+  </a>
+</p>
   
   
 
