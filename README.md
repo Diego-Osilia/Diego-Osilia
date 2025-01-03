@@ -1,19 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e11605&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Diego+Osilia;I'm+a+Software+Engineer)](https://git.io/typing-svg)
 
-
-	
 ## About me
-
-
 
 <br><br>
 
 - :school: I studied **Software Engineering** at [Technological University of Inacap](https://portal.inacap.cl/) in [Santiago, Chile].
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Cybersecurity` and `Videogame Development`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [My LinkedIn](https://www.linkedin.com/in/diego-osilia/).
-
+- :video_game: I specialize in **Artificial Intelligence** and **Video Game Development**, with a focus on creating procedural models and dynamic experiences.
+- :computer: My technical expertise includes **C#**, **Python**, **Node.js**, and game engines like **Godot Engine** and **Unity Engine**. I also use libraries like **NumPy**, **Pandas**, and **PyTorch** for machine learning applications.
+- :art: I have experience in **3D design with Blender**, integrating visuals into interactive environments.
+- :nerd_face: Always eager to `learn new things` and improve my skills.
+- :thinking: I’m currently open to new `job opportunities` in **AI development**, **game programming**, or similar fields. This is [My LinkedIn](https://www.linkedin.com/in/diego-osilia/).
+- :lock: I also have knowledge in `cybersecurity` and network administration.
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>
 <p align="center">
