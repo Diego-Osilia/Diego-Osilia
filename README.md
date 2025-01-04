@@ -122,6 +122,12 @@
 - [Password Manager](https://github.com/Diego-Osilia/Password_Manager.git): Application to securely store and manage passwords.
 - [Encryptor](https://github.com/Diego-Osilia/Encryptor.git): A Python application for encrypting and decrypting messages securely.
 
+## Proyectos de Python
+- [Intrusion Detection System](https://github.com/Diego-Osilia/Image_Viewer.py.git): Python application to view images in various formats.
+- [Password Manager](https://github.com/Diego-Osilia/Calculator.py.git): A simple Python application to perform basic arithmetic calculations.
+- [Encryptor](https://github.com/Diego-Osilia/Age_Calculator.py.git): A Python application to calculate a person's age based on their birthdate.
+- [Encryptor](https://github.com/Diego-Osilia/Login_Form.py.git): A Python application with a simple user login interface for authentication.
+
 <!-- 
 ## Otros Proyectos
 - [Proyecto 3](https://github.com/tu-usuario/proyecto-3): Generador de gráficos interactivos en JavaScript.
