@@ -118,10 +118,13 @@
 <h2 align="center" style="margin: 5px 10px;">Mis Proyectos</h2> 
 
 ## Proyectos de Python
-- [Intrusion Detection System](https://github.com/Diego-Osilia/Image_Viewer.py.git): Python application to view images in various formats.
-- [Password Manager](https://github.com/Diego-Osilia/Calculator.py.git): A simple Python application to perform basic arithmetic calculations.
-- [Encryptor](https://github.com/Diego-Osilia/Age_Calculator.py.git): A Python application to calculate a person's age based on their birthdate.
+- [Image_Viewer](https://github.com/Diego-Osilia/Image_Viewer.py.git): Python application to view images in various formats.
+- [Calculator](https://github.com/Diego-Osilia/Calculator.py.git): A simple Python application to perform basic arithmetic calculations.
+- [Age_Calculator](https://github.com/Diego-Osilia/Age_Calculator.py.git): A Python application to calculate a person's age based on their birthdate.
 - [Form_Login](https://github.com/Diego-Osilia/Login_Form.py.git): A Python application with a simple user login interface for authentication.
+- [Image_Compressor](https://github.com/Diego-Osilia/Image_Compressor.git): Python application to compress images.
+
+
 
 ## Proyectos de Ciberseguridad
 - [Intrusion Detection System](https://github.com/Diego-Osilia/intrusion-detection-system.git): Application to monitor network traffic.
