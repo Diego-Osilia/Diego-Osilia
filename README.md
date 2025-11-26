@@ -4,13 +4,15 @@
 
 <br><br>
 
-- :school: I studied **Software Engineering** at [Technological University of Inacap](https://portal.inacap.cl/) in [Santiago, Chile].
-- :video_game: I specialize in **Artificial Intelligence** and **Video Game Development**, with a focus on creating procedural models and dynamic experiences.
-- :computer: My technical expertise includes **C#**, **Python**, **Node.js**, and game engines like **Godot Engine** and **Unity Engine**. I also use libraries like **NumPy**, **Pandas**, and **PyTorch** for machine learning applications.
-- :art: I have experience in **3D design with Blender**, integrating visuals into interactive environments.
-- :nerd_face: Always eager to `learn new things` and improve my skills.
-- :thinking: I’m currently open to new `job opportunities` in **AI development**, **game programming**, or similar fields. This is [My LinkedIn](https://www.linkedin.com/in/diego-osilia/).
-- :lock: I also have knowledge in `cybersecurity` and network administration.
+- :school: I studied **Software Engineering** at [Technological University of Inacap](https://portal.inacap.cl/) in **Santiago, Chile**.
+- :video_game: I specialize in **Gameplay & Systems Programming**, with a primary focus on **Combat and Ability Systems** for scalable and modular game architectures.
+- :computer: My main tech stack includes **Unreal Engine 5 (GAS, C++ & Blueprints)** and **Unity (C#)**. I work with **data-driven workflows**, **state management**, **gameplay tags**, **effect systems**, **resource/cost pipelines**, and **complex inter-system interaction**.
+- :gear: I also have experience in **Progression & Content Systems** (**items, crafting, upgrades, economy**) and complementary experience in **level blockouts** for early mechanical validation.
+- :target: I'm passionate about building **responsive gameplay**, **robust mechanics**, and **systemic ecosystems** that remain coherent even under high complexity.
+- :rocket: Always iterating and learning — I love **prototyping**, **stress-testing systems**, and reducing risk during **early production**.
+- :briefcase: I’m currently open to new `job opportunities` in **Gameplay / Systems Programming**, especially roles involving **Ability Systems** or **Combat mechanics**.  
+  
+
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <h3 align="center">Languages</h3>
