@@ -17,88 +17,72 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
-      alt="JavaScript"/> 
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" 
-      alt="C#"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-      alt="Python"/> 
-  </a>
-  <a href="https://isocpp.org/" target="_blank"> 
+  <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-      alt="C++"/> 
+      alt="C++"/>
   </a>
-  
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+      alt="C#"/>
+  </a>
+  <a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blueprints-2D5DB3?style=for-the-badge&logo=unrealengine&logoColor=white"
+      alt="Blueprints"/>
+  </a>
 </p>
 
-<h3 align="center">Python Libraries</h3>
+<h3 align="center">Game Engines</h3>
 <p align="center">
-  <a href="https://numpy.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" 
-      alt="NumPy"/> 
+  <a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"
+      alt="Unreal Engine 5"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" 
-      alt="Pandas"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" 
-      alt="PyTorch"/> 
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"
+      alt="Unity"/>
   </a>
 </p>
-  
-  
 
-</p>
-
-<h3 align="center">Backend</h3>
+<h3 align="center">Gameplay / Systems</h3>
 <p align="center">
-  <a href="https://nodejs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="Node.js"/> 
-  </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-      alt="Django"/> 
-  </a>
+  <img src="https://img.shields.io/badge/Gameplay_Ability_System_(GAS)-68217A?style=for-the-badge&logo=unrealengine&logoColor=white"
+    alt="GAS"/>
+  <img src="https://img.shields.io/badge/Gameplay_Tags-394989?style=for-the-badge&logo=unrealengine&logoColor=white"
+    alt="Gameplay Tags"/>
+  <img src="https://img.shields.io/badge/Finite_State_Machines-1e6f5c?style=for-the-badge"
+    alt="FSM"/>
+  <img src="https://img.shields.io/badge/Combat_&_Ability_Systems-b53131?style=for-the-badge"
+    alt="Combat & Abilities"/>
+  <img src="https://img.shields.io/badge/Content_&_Progression_Systems-4C8C2B?style=for-the-badge"
+    alt="Progression Systems"/>
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">3D & Tools</h3>
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="MySQL"/> 
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"
+      alt="Blender"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="PostgreSQL"/> 
+  <a href="https://trello.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white"
+      alt="Trello"/>
   </a>
-  
-</p>
-
-<h3 align="center">Cloud & Hosting</h3>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white"
+      alt="Figma"/>
   </a>
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<h3 align="center">Version Control</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
       alt="Git"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"/>
   </a>
-  
 </p>
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
