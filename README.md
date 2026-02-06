@@ -16,7 +16,7 @@
 <h2 align="center" style="margin: 5px 10px;">Mis Proyectos</h2> 
 
 ## Videogames Projects
-- [Global Game Jam](https://daosify.itch.io/beneath-the-chosen): A 2D Platformer game made in the Global Game Jam 2026.
+- [Beneath The Chosen](https://daosify.itch.io/beneath-the-chosen): A 2D Platformer game made in the Global Game Jam 2026.
 
 ## Python Projects
 - [Image_Viewer](https://github.com/Diego-Osilia/Image_Viewer.py.git): Python application to view images in various formats.
